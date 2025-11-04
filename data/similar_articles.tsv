@@ -1,0 +1,11 @@
+CorpusDocument	VectorRepresentation	ExtractedFeatures	ComparisonContent	SimilarityValue	Corpus	DOI	Date
+Effects of Acute Sleep Deprivation on Sporting Performance in Athletes: A       Comprehensive Systematic Review and Meta-Analysis.	tfidf	unigram	Title	0.998	pubmed	10.2147/NSS.S467531	01/01/2024
+A systematic review and meta-analysis of the efficacy and safety of       pharmacological treatments for obesity in adults.	tfidf	unigram	Title	0.27	pubmed	10.1038/s41591-025-03978-z	02/10/2025
+Effects of ketogenic diet on muscle mass, strength, aerobic metabolic capacity,       and endurance in adults: a systematic review and meta-analysis.	tfidf	unigram	Title	0.265	pubmed	10.1186/s41043-025-01090-z	01/10/2025
+Hybrid Architectures for Language Models: Systematic Analysis and Design   Insights	tfidf	unigram	Title	0.257	arxiv	10.48550/arXiv.2510.04800	06/10/2025
+Reevaluating Nonoperative Management for Pediatric Uncomplicated Acute       Appendicitis: A Systematic Review and Meta-Analysis.	tfidf	unigram	Title	0.254	pubmed	10.1001/jamapediatrics.2025.4091	05/10/2025
+What your brain activity says about you: A review of neuropsychiatric   disorders identified in resting-state and sleep EEG data	tfidf	unigram	Title	0.252	arxiv	10.48550/arXiv.2510.04984	06/10/2025
+The Associations Between the TyG Index and the Risk of Cancer-A Systematic Review       and Meta-Analysis.	tfidf	unigram	Title	0.245	pubmed	10.1002/cam4.71232	01/01/2008
+You Have Been LaTeXpOsEd: A Systematic Analysis of Information Leakage   in Preprint Archives Using Large Language Models	tfidf	unigram	Title	0.232	arxiv	10.48550/arXiv.2510.03761	04/10/2025
+The effects of vasopressor choice on renal outcomes in septic shock: a systematic       review of randomised trials as a guide for future research.	tfidf	unigram	Title	0.226	pubmed	10.1186/s13054-025-05573-7	02/10/2025
+Use of AI in Identification of Sexually Transmitted Infections and Anogenital       Dermatoses: A Systematic Review and Meta-Analysis.	tfidf	unigram	Title	0.226	pubmed	10.1001/jamanetworkopen.2025.33512	01/10/2025
